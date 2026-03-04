@@ -3,7 +3,7 @@
 
 ## Informações Gerais
 Coloque aqui os seus dados
-- Nome: 
+- Nome: Gabriel Tavares Pandino
 - Matricula:
 
 ## Tela de inspeção com navegador
